@@ -6,3 +6,4 @@ second changes
 4th changes
 
 new features added
+test changes made
